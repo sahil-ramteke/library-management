@@ -1,0 +1,6 @@
+{
+  "name": "Athenaeum - Java & MySQL Library Management System",
+  "description": "Complete Library Management Web System with User Auth, Borrow/Return Tracking, MySQL Database Workbench, and Full Java WAR Package & Source Exporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
